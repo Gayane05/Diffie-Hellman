@@ -1,0 +1,2 @@
+# Diffie-Hellman
+ Prior to public key methods like Diffie–Hellman, cryptographic keys had to be transmitted in physical form such as this World War II list of keys for the German Enigma cipher machine. Diffie–Hellman key exchange is a method of securely exchanging cryptographic keys over a public channel and was one of the first public-key protocols as originally conceptualized by Ralph Merkle and named after Whitfield Diffie and Martin Hellman.  Modulus p
